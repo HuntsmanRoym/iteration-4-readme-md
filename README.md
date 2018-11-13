@@ -45,15 +45,15 @@ Instructions on setting up the project using a DigitalOcean droplet can be found
 * **Javascript**
 * **Java**
 
-##Libraries Used
-###Client
+## Libraries Used
+### Client
 * **Angular 5**
 * **Jasmine** and **Karma**
 * **Gradle**
 * **Angularx Social Login**
 * **HammerJS**
 * **Google SIgn in API**
-###Server
+### Server
 * **Spark**
 * **JUnit**
 * **MongoDB**
@@ -91,4 +91,4 @@ Instructions on setting up the project using a DigitalOcean droplet can be found
 [labtasks]: LABTASKS.md
 [travis]: https://travis-ci.org/
 
-This project was developed as a part of a Software Design class at the University of Minnesota, Morris.
+This project was developed as a part of a Software Design class at the University of Minnesota, Morris. It was the final of four iterations.
