@@ -16,7 +16,7 @@ to use when physical appointments are not available. This web app will assist in
 the ability for mental health practitioners to review their clients emotions since the last time they met. It is designed in a way
 to be both easy for the clients to use, and the mental health practitioners to analyze. 
 
-##Key Features
+## Key Features
 - Log in with google account
     - Securely displays your data, and no one else's.
 - Log an emotion using a swiping system
